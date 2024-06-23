@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/hasitha-lakshan-1756982a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasitha-lakshan-1756982a2" height="30" width="40" /></a>
 <a href="https://instagram.com/hasitha_lakshan_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasitha_lakshan_03" height="30" width="40" /></a>
 <a href="https://medium.com/@hasitha.uiux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hasitha.uiux" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@hasithalakshan-design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@hasithalakshan-design" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hasithalakshan-design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@hasithalakshan-design" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
