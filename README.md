@@ -3,6 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasitha-usermelon&label=Profile%20views&color=0e75b6&style=flat" alt="hasitha-usermelon" /> </p>
 
+# My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Hasitha-Usermelon
+Public
+">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Usermelon
+Public
+&show_icons=true&theme=radical" alt="Hasitha-Usermelon
+Public
+'s GitHub stats" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Usermelon
+Public
+&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
+
+
+
 - 🌱 I’m currently learning **Microsoft Azure & Postman API**
 
 - 📝 I regularly write articles on [https://medium.com/@hasitha.uiux](https://medium.com/@hasitha.uiux)
