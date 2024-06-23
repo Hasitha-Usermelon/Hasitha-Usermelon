@@ -3,24 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasitha-usermelon&label=Profile%20views&color=0e75b6&style=flat" alt="hasitha-usermelon" /> </p>
 
-# My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Hasitha-Usermelon
-Public
-">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Usermelon
-
-&show_icons=true&theme=radical" alt="Hasitha-Usermelon
-
-'s GitHub stats" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Usermelon
-
-&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
 
 
 
