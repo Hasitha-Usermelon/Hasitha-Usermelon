@@ -10,14 +10,14 @@
 Public
 ">
     <img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Usermelon
-Public
+
 &show_icons=true&theme=radical" alt="Hasitha-Usermelon
-Public
+
 's GitHub stats" />
   </a>
   <a href="https://github.com/yourusername">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Usermelon
-Public
+
 &layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
